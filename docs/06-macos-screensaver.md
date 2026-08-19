@@ -96,7 +96,7 @@ cat << 'EOF' > "$CONTENTS_DIR/Info.plist"
 <plist version="1.0">
 <dict>
     <key>CFBundleExecutable</key><string>Genscape</string>
-    <key>CFBundleIdentifier</key><string>com.visualinterest.genscape.saver</string>
+    <key>CFBundleIdentifier</key><string>com.williamthazard.visualinterest.saver</string>
     <key>CFBundleName</key><string>Genscape</string>
     <key>CFBundlePackageType</key><string>BNDL</string>
     <key>NSPrincipalClass</key><string>GenscapeView</string>
