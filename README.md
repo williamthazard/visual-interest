@@ -6,6 +6,9 @@ The visual style is restrained and grayscale. Every render builds a quiet landsc
 
 ## Web Application
 
+The live web application is hosted on GitHub Pages:
+**[williamthazard.github.io/genscape-animated](https://williamthazard.github.io/genscape-animated/)**
+
 To run the web app locally:
 
 ```bash
