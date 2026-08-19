@@ -113,17 +113,6 @@ export interface RidgeConfig {
   index: number;
 }
 
-export interface ForegroundElement {
-  worldX: number;
-  y: number;
-  width: number;
-  height: number;
-  shade: number;
-  lean?: number;
-  tilt?: number;
-  hasPeak?: boolean;
-  peakOffset?: number;
-}
 
 export interface BirdFlock {
   startX: number;
