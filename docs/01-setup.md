@@ -95,7 +95,7 @@ The HTML entry point in `index.html` mounts the application in a full-viewport c
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Genscape</title>
+    <title>Visual Interest</title>
     <style>
       * {
         box-sizing: border-box;
