@@ -1,4 +1,4 @@
-# Genscape
+# Visual Interest
 
 A meditative, procedural night landscape that slowly moves across the screen. Built with TypeScript, HTML5 Canvas, and React. It runs in any web browser and compiles directly into a native macOS screensaver.
 
@@ -7,7 +7,7 @@ The visual style is restrained and grayscale. Every render builds a quiet landsc
 ## Web Application
 
 The live web application is hosted on GitHub Pages:
-**[williamthazard.github.io/genscape-animated](https://williamthazard.github.io/genscape-animated/)**
+**[williamthazard.github.io/visual-interest](https://williamthazard.github.io/visual-interest/)**
 
 To run the web app locally:
 

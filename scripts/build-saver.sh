@@ -32,7 +32,7 @@ cat << 'EOF' > "$CONTENTS_DIR/Info.plist"
     <key>CFBundleExecutable</key>
     <string>Genscape</string>
     <key>CFBundleIdentifier</key>
-    <string>com.williamthazard.genscape.saver</string>
+    <string>com.williamthazard.visualinterest.saver</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
