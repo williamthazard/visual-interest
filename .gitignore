@@ -7,9 +7,13 @@ Genscape.saver
 
 # Logs & temp
 *.log
-.DS_Store
-
 # IDE / OS
+.vscode/
+.idea/
+*.swp
+
+# Internal plans
+docs/superpowers/
 .vscode/
 .idea/
 *.swp
